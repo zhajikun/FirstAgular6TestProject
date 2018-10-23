@@ -30,4 +30,3 @@ describe('AppComponent', () => {
   });
 });
 
-wqerwqerwqerqwerwqer
